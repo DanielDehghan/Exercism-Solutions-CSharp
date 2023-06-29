@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogLevels", "LogLine\LogLev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Annalyn's Infiltration", "Annalyn's Infiltration\Annalyn's Infiltration.csproj", "{93B2AEBC-B4D3-41AE-AFF8-3F41D62604C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars_Assemble", "Cars_Assemble\Cars_Assemble.csproj", "{28782321-6ED0-440B-B66E-B531BB5EEA97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{93B2AEBC-B4D3-41AE-AFF8-3F41D62604C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93B2AEBC-B4D3-41AE-AFF8-3F41D62604C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93B2AEBC-B4D3-41AE-AFF8-3F41D62604C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28782321-6ED0-440B-B66E-B531BB5EEA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28782321-6ED0-440B-B66E-B531BB5EEA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28782321-6ED0-440B-B66E-B531BB5EEA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28782321-6ED0-440B-B66E-B531BB5EEA97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
