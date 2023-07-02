@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Annalyn's Infiltration", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars_Assemble", "Cars_Assemble\Cars_Assemble.csproj", "{28782321-6ED0-440B-B66E-B531BB5EEA97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elon'sToys", "Elon'sToys\Elon'sToys.csproj", "{7C201CA5-033F-4ECC-81F0-DCCD4F64165B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdWatcher", "BirdWatcher\BirdWatcher.csproj", "{01C2C211-B9F0-4067-87A8-E3EE80BB806A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{28782321-6ED0-440B-B66E-B531BB5EEA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28782321-6ED0-440B-B66E-B531BB5EEA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28782321-6ED0-440B-B66E-B531BB5EEA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C201CA5-033F-4ECC-81F0-DCCD4F64165B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C201CA5-033F-4ECC-81F0-DCCD4F64165B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C201CA5-033F-4ECC-81F0-DCCD4F64165B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C201CA5-033F-4ECC-81F0-DCCD4F64165B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C2C211-B9F0-4067-87A8-E3EE80BB806A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C2C211-B9F0-4067-87A8-E3EE80BB806A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C2C211-B9F0-4067-87A8-E3EE80BB806A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C2C211-B9F0-4067-87A8-E3EE80BB806A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
