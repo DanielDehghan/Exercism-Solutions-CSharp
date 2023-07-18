@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elon'sToys", "Elon'sToys\El
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdWatcher", "BirdWatcher\BirdWatcher.csproj", "{01C2C211-B9F0-4067-87A8-E3EE80BB806A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squeaky Clean", "Squeaky Clean\Squeaky Clean.csproj", "{3B1B8C26-A379-4A47-81C2-F148C77D69F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{01C2C211-B9F0-4067-87A8-E3EE80BB806A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01C2C211-B9F0-4067-87A8-E3EE80BB806A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01C2C211-B9F0-4067-87A8-E3EE80BB806A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1B8C26-A379-4A47-81C2-F148C77D69F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1B8C26-A379-4A47-81C2-F148C77D69F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1B8C26-A379-4A47-81C2-F148C77D69F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1B8C26-A379-4A47-81C2-F148C77D69F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
