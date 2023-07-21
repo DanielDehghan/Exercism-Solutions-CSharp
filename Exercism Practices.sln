@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdWatcher", "BirdWatcher\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squeaky Clean", "Squeaky Clean\Squeaky Clean.csproj", "{3B1B8C26-A379-4A47-81C2-F148C77D69F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booking up for Beauty", "Booking up for Beauty\Booking up for Beauty.csproj", "{BCDC060B-91CE-4889-810C-C7E5DF39EEAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{3B1B8C26-A379-4A47-81C2-F148C77D69F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B1B8C26-A379-4A47-81C2-F148C77D69F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B1B8C26-A379-4A47-81C2-F148C77D69F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDC060B-91CE-4889-810C-C7E5DF39EEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDC060B-91CE-4889-810C-C7E5DF39EEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDC060B-91CE-4889-810C-C7E5DF39EEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDC060B-91CE-4889-810C-C7E5DF39EEAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
